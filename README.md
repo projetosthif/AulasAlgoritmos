@@ -4,6 +4,6 @@
 <p> Projeto de movimento no Scratch https://scratch.mit.edu/projects/671433836 <p>
 <p> Projeto trabalhando com variáveis https://scratch.mit.edu/projects/671447612 <p>
 <p> Projeto Alfândega https://scratch.mit.edu/projects/671481733
-<p> #Fluxogramas# </p>
+<p> Fluxogramas </p>
 <p> Cálculos de Peças </p>
 <p>https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=calculopeca#R3Zhbb5swFMc%2FDS%2BTKoG5hDx2abtNa7VOeeheDT5cNsOhjinJPv1MMCGQG12zdqpUqfh%2Fjq%2F%2F88Mihj3Llp8ELZI7ZMANYrKlYV8ZhFgOIUb9Z7JVo0ymTiPEImU6qRPm6W%2FQoqnVMmWw6CVKRC7Toi%2BGmOcQyp5GhcCqnxYh789a0Bh2hHlI%2Ba76kDKZNKpPJp3%2BGdI4aWe2vGkTyWibrHeySCjDakuyrw17JhBl85QtZ8Drw2vPpel3cyC6WZiAXI7pQPO8mof5XfptRX5U99OHr9%2FzC1evTa7aDQNT%2B9dNFDLBGHPKrzv1o8AyZ1CPaqpWl3OLWCjRUuJPkHKlzaSlRCUlMuM6GmEudZDU7WYN9cQHt6alBZYihCP7aUuEihjkkTxnY4CqXMAMpFipfgI4lelTfx1Ul1C8yetOWT3og37Goetxnygv9UwG8bjUJ9Ozw3sssQ1cLNZndqkSCCmWXVA9xfr%2FepSgFb7kxsw2Lq%2FCFNuYWnAwzFdaM3ErD0uCc4VbbX2VpBLmBV17UCniB8amnM%2BQo1j3sxkFPwqVvpACf8FWxAt9CKLNXE8gJCyPm79rlu7Q8qVfMNZEt6sOV8vWWrKFqmf%2BI3sne%2Bx9V5A5IyHz3hIy5%2BWQWaMgUzOosiazR8ngJZSp%2B6GoH5UjlHPgGAuaqcQCRKqOBMQwdt8FToO5hPZyHRYH2QU3iiIS7gWXeYHneucB15qOINdxX5Hc6Xsn1xtJrv%2BW5HoHyd0wJVFSNY5Hs7rQ17GLpguKD4dBHHh5CprjkDAXfObsg8Qnge2dCRJ7FCSveb1Z9juDwh8JhWXud2o0FbrrPabrC0g7PJn0HSbOwLlmYbpXZ96lEHS1lVbUCYsj87iDeUxzUAvNiF1lbPb498Xij2f5NK%2FtDckwLLO1zafuvaApu9tgJNORH8L%2Biy%2FwXcc1z8O06%2F93TJunfbpJs1Eujf9aOPF%2BfZWvB2%2FwfiXuHi%2FIebxQze5zvyGs%2B9HEvv4D</p>
