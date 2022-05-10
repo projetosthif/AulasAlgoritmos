@@ -1,5 +1,5 @@
 algoritmo "conversaodolar"
-// Função : Converter reais em dólar
+// FunÃ§Ã£o : Converter reais em dÃ³lar
 // Autor : Thifany Garcia
 // Data : 26/04/2022
 
@@ -8,17 +8,17 @@ conv,reais,cotdol:real
 
 inicio
 //entrada
-escreval ("Digite a cotação do dólar atual:")
+escreval ("Digite a cotaÃ§Ã£o do dÃ³lar atual:")
 leia (cotdol)
 
-escreval ("Escreva o valor que você quer converter para dólar")
+escreval ("Escreva o valor que vocÃª quer converter para dÃ³lar")
 leia (reais)
 
 //processamento
 conv<-reais/cotdol
 
 //saida
-escreval("O resultado da conversão é:", conv)
+escreval("O resultado da conversÃ£o Ã©:", conv)
 
 
 
