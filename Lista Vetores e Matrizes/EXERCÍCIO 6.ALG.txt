@@ -1,0 +1,35 @@
+algoritmo "exercício 6"
+// Descrição : Criar uma matriz 5x5 e contar quantos números pares ha nela
+// Autor : Thifany Garcia
+// Data : 21/11/2022
+
+
+var
+
+matrix: vetor[0..4,0..4] de inteiro
+col,linha,cont: inteiro
+
+Inicio
+
+escreval(" ")
+para col de 0 ate 4 faca
+     para linha de 0 ate 4 faca
+          matrix[col,linha] <- randi(10)
+          escreva(matrix[col,linha]:4)
+     fimpara
+     escreval(" ")
+fimpara
+
+para col de 0 ate 4 faca
+     para linha de 0 ate 4 faca
+        se ((matrix[col,linha]) mod 2 = 0) e ((matrix[col,linha]) <> 0 ) entao
+        	cont <- (cont + 1)
+        fimse
+     fimpara
+fimpara
+
+escreval(" ")
+Escreval ("Nesta matriz há: ", cont, " números pares")
+
+
+Fimalgoritmo
