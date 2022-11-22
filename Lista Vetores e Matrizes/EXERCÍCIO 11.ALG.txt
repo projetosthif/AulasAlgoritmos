@@ -1,0 +1,28 @@
+algoritmo "exercício 11"
+// Descrição : Criar um algoritmo que calcule a soma dos valores da diagonal principal de uma  matriz
+// Autor : Thifany Garcia
+// Data : 21/11/2022
+// Seção de Declarações 
+Var
+
+col,linha,resul:inteiro
+matrix:vetor[0..4,0..4] de inteiro
+
+Inicio
+
+para linha de 0 ate 4 faca
+     para col de 0 ate 4 faca
+          matrix[linha,col] <- randi(5)
+          escreva(matrix[linha,col]:4)
+          se linha = col entao
+            resul <- resul + matrix[linha,col]
+          fimse
+     fimpara
+          escreval(" ")
+fimpara
+
+
+escreval("  ")
+escreval("O resultado da soma da diagonal prinipal é: ",resul)
+
+fimalgoritmo
